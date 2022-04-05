@@ -7,7 +7,7 @@ require (
 	github.com/gogf/gf v1.15.6
 	github.com/google/uuid v1.2.0
 	github.com/transaction-mesh/mysql v1.0.0-rc4
-	github.com/transaction-mesh/starfish v1.0.2-rc1
+	github.com/transaction-mesh/starfish v0.0.0-20220404131655-35460f6ca58e
 	gorm.io/gorm v1.21.8
 
 )
